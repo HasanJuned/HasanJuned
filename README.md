@@ -1,7 +1,7 @@
 ## Hi I am Hasan,
 Flutter Developer & Node.js Developer
 
-- 🔭 I’m currently working on Ostad
+- 🔭 I’m currently working for Ostad as a Teaching Assistant of Flutter Mobile Application Development
 
 
 ##
